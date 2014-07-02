@@ -27,3 +27,4 @@ $(document).ready(function(){
     });    
    
 // höhö alle leute sind fett ]:)  bmi formel: gewicht (in kg)/ grösse^2
+// bei kommazahlen einen punkt anstatt einem komma nehmen!
