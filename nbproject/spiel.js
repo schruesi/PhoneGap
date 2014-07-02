@@ -3,4 +3,6 @@
  * and open the template in the editor.
  */
 
-
+$("#document").ready()
+$("body").html("Du bist dran!");
+);
